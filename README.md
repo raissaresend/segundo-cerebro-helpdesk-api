@@ -48,7 +48,7 @@ A partir do conhecimento consolidado das 28 fontes, foram gerados os seguintes m
 
 **Mapa Mental:** [![Mapa Mental](docs/NotebookLM%20Mind%20Map.png)](docs/NotebookLM%20Mind%20Map.png)
 
-**Blueprint de Arquitetura e Slides:** [![Blueprint](docs/NotebookLM%20Mind%20Map.png)](docs/NotebookLM%20Mind%20Map.png)
+**Blueprint de Arquitetura e Slides:** [![Blueprint](docs/Helpdesk_API_Architecture_Blueprint.pdf)](docs/Helpdesk_API_Architecture_Blueprint.pdf)
 
 ---
 
