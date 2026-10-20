@@ -40,6 +40,8 @@ Abaixo estão exemplos práticos de perguntas feitas ao mentor, comprovando que 
 
 ![Resposta do Chat](docs/prints/chat-resposta3.png)
 
+![Resposta do Chat](docs/prints/chat-resposta4.png)
+
 ---
 
 ## Materiais Gerados no Estúdio
